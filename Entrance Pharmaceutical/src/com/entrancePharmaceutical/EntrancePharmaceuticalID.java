@@ -8,6 +8,7 @@ public class EntrancePharmaceuticalID {
         createReceipt();
     }
     static void createReceipt(){
+//
         int totalQuantityOfItems;
         double subTotalOfFirstItem, subTotalOfSecondItem,subTotalOfThirdItem,subTotalOfFourthItem, subTotalOfFifthItem, totalOrder;
         final double totalDiscount;
